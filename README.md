@@ -11,3 +11,11 @@ Analyzed weekly credit card data and developed transaction and customer dashboar
 ### *Credit Card Transaction Dashboard*
 <img width="584" alt="credit card transaction dashboard" src="https://github.com/user-attachments/assets/327fde4f-d61f-4eaa-9c7b-6c656352a086" />
 
+### *Credit Card Customer Dashboard*
+<img width="581" alt="credit card customer dashboard" src="https://github.com/user-attachments/assets/8c6942e1-1385-42b5-bcd2-12e9d6d99b72" />
+
+### *Data Model*
+<img width="760" alt="Data Model" src="https://github.com/user-attachments/assets/78006cc6-2da7-4126-acb9-23d87a580775" />
+
+
+
