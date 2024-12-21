@@ -1,4 +1,4 @@
-# Credit-Card-Data-Analysis
+# Credit-Card-Transactin-and-Customer-Analysis
 
 ### *Project Objective*
 The objective is to analyze credit card financial data and develop transaction and customer analysis dashboards that provide real-time insights into key performance metrics and trends. These dashboards enable stakeholders to monitor and optimize credit card operations, make data-driven decisions, and identify opportunities for growth and enhanced customer engagement.
